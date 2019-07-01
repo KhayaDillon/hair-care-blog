@@ -1,1 +1,1 @@
-# rock-paper-scissors
+# hair-care-blog
